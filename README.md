@@ -15,7 +15,7 @@ to map similar songs close to each other [1].
 
 ## Example recommendation
 
-![](examplerec.PNG)
+![Screenshot](examplerec.png)
 
 
 ##References
