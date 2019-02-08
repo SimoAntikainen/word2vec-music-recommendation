@@ -11,6 +11,9 @@ to map similar songs close to each other [1].
 
 ## Prerequisites
 
+Donwload the playlists dataset of #nowplaying project [2] from http://dbis-nowplaying.uibk.ac.at/.
+
+
 `pip install placeholder`
 
 ## Example recommendation
