@@ -18,6 +18,9 @@ Donwload the playlists dataset of #nowplaying project [2] from http://dbis-nowpl
 
 ## Example recommendation
 
+From the image you can see that the recommender produces topical music from different genres.
+The current model is weigted heavily towards semantic similarity, which causes many of the songs to be about walking.
+
 ![Screenshot](examplerec.PNG)
 
 

@@ -1,4 +1,7 @@
 *.ipynb_checkpoints
 *.vscode
 *log
-*spotify_dataset.csvhttp://smartly-fasttrack-2.herokuapp.com/tirocinium
+*spotify_dataset.csv
+*dataset 
+*model.bin
+*music_1.npy
