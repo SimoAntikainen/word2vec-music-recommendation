@@ -1,8 +1,6 @@
 # Word2vec-music-recommendation
 
-!This project is very much a work in progress, with missing evaluation metrics and hyperparameter optimization. 
-
-Idea of using word2vec in recommendation and advertizing is illustrated in a article by
+Idea of using word2vec in recommendation and advertizing is illustrated in an article by
 [Chris McCormick](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/).
 
 Goal of the project is to build and effective word2vec-based music recommendation system, by 
@@ -14,17 +12,14 @@ to map similar songs close to each other [1].
 Donwload the playlists dataset of #nowplaying project [2] from http://dbis-nowplaying.uibk.ac.at/.
 
 
-`pip install placeholder`
+`pip install numpy pandas sklearn gensim matplotlib`
 
 ## Example recommendation
-
-From the image you can see that the recommender produces topical music from different genres.
-The current model is weigted heavily towards semantic similarity, which causes many of the songs to be about walking.
 
 ![Screenshot](examplerec.PNG)
 
 
-##References
+## References
 
 [1] https://arxiv.org/pdf/1804.04212.pdf Caselles-Dupré, Hugo, Florian Lesaint, and Jimena Royo-Letelier. "Word2Vec applied to Recommendation: Hyperparameters Matter." arXiv preprint arXiv:1804.04212 (2018).
 
